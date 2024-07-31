@@ -1,4 +1,4 @@
-### Olá eu sou o Ronaldo Lacki
+### Olá! eu sou o Ronaldo Lacki
 
 
 ![Nefthur GitHub stats](https://github-readme-stats.vercel.app/api?username=RonaldoLacki&show_icons=true&theme=dark)
